@@ -20,14 +20,14 @@ public class NewTest
         
         System.out.println("Priority - 1");
         // default mode
-        driver = new ChromeDriver();
+        //driver = new ChromeDriver();
 
  
 
         // headless mode
-        //ChromeOptions options = new ChromeOptions();
-        //options.addArguments("--headless", "--disable-gpu", "--window-size=1920,1200","--ignore-certificate-errors");
-        //driver = new ChromeDriver(options);
+        ChromeOptions options = new ChromeOptions();
+        options.addArguments("--headless", "--disable-gpu", "--window-size=1920,1200","--ignore-certificate-errors");
+        driver = new ChromeDriver(options);
         
         driver.get("http://www.google.com");                
         //driver.manage().window().maximize();
