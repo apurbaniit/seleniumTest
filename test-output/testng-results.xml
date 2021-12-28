@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="47807" started-at="2021-12-24T15:54:18 IST" finished-at="2021-12-24T15:55:06 IST">
+  <suite name="Default suite" duration-ms="37844" started-at="2021-12-28T09:42:12 IST" finished-at="2021-12-28T09:42:50 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="47807" started-at="2021-12-24T15:54:18 IST" finished-at="2021-12-24T15:55:06 IST">
+    <test name="Default test" duration-ms="37844" started-at="2021-12-28T09:42:12 IST" finished-at="2021-12-28T09:42:50 IST">
       <class name="test1.NewTest">
-        <test-method status="PASS" signature="openBrowser()[pri:1, instance:test1.NewTest@b9afc07]" name="openBrowser" duration-ms="36277" started-at="2021-12-24T15:54:18 IST" finished-at="2021-12-24T15:54:54 IST">
+        <test-method status="PASS" signature="openBrowser()[pri:1, instance:test1.NewTest@b9afc07]" name="openBrowser" duration-ms="31097" started-at="2021-12-28T09:42:12 IST" finished-at="2021-12-28T09:42:43 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openBrowser -->
-        <test-method status="PASS" signature="launchGoogle()[pri:2, instance:test1.NewTest@b9afc07]" name="launchGoogle" duration-ms="1425" started-at="2021-12-24T15:54:54 IST" finished-at="2021-12-24T15:54:56 IST">
+        <test-method status="PASS" signature="launchGoogle()[pri:2, instance:test1.NewTest@b9afc07]" name="launchGoogle" duration-ms="1053" started-at="2021-12-28T09:42:44 IST" finished-at="2021-12-28T09:42:45 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchGoogle -->
-        <test-method status="PASS" signature="peformSeachAndClick1stLink()[pri:3, instance:test1.NewTest@b9afc07]" name="peformSeachAndClick1stLink" duration-ms="5289" started-at="2021-12-24T15:54:56 IST" finished-at="2021-12-24T15:55:01 IST">
+        <test-method status="PASS" signature="peformSeachAndClick1stLink()[pri:3, instance:test1.NewTest@b9afc07]" name="peformSeachAndClick1stLink" duration-ms="4059" started-at="2021-12-28T09:42:45 IST" finished-at="2021-12-28T09:42:49 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- peformSeachAndClick1stLink -->
-        <test-method status="PASS" signature="FaceBookPageTitleVerification()[pri:4, instance:test1.NewTest@b9afc07]" name="FaceBookPageTitleVerification" duration-ms="4597" started-at="2021-12-24T15:55:01 IST" finished-at="2021-12-24T15:55:06 IST">
+        <test-method status="PASS" signature="FaceBookPageTitleVerification()[pri:4, instance:test1.NewTest@b9afc07]" name="FaceBookPageTitleVerification" duration-ms="1376" started-at="2021-12-28T09:42:49 IST" finished-at="2021-12-28T09:42:50 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- FaceBookPageTitleVerification -->
